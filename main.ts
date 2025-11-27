@@ -20,7 +20,7 @@ function strategicFizzBuzz(length: number) {
   }
 }
 
-strategicFizzBuzz(200);
+strategicFizzBuzz(100);
 
 // Export for ES Modules
 export {};
